@@ -1,0 +1,24 @@
+.footer {
+  color: white;
+  height: auto;
+  padding: 25px 15px;
+  border-radius: 8px;
+  margin: 5px 15px 15px;
+  background: rgba(255, 255, 255, 0.2);
+  border-top: 1px solid rgba(255, 255, 255, 0.4);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.footerContent {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.footerContent a{
+  color: white;
+  text-decoration: none;
+}
