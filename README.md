@@ -95,3 +95,11 @@ React-based Mini Project Manager
 ### ⭐ If You Like This Project
 
 Give it a ⭐ on GitHub and feel free to fork & improve it!
+
+
+### Screenshots of trello lite
+![alt text]({8EB5B6D2-8A49-4BBE-9FD1-5B9DD4F9CF14}.png)
+
+![alt text]({9408BF15-6BF7-46BB-AEAD-710BAE6A137C}.png)
+
+![alt text]({F4CACB4B-ACA9-4A7F-BDE1-E3440FADBDD8}.png)

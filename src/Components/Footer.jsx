@@ -15,7 +15,7 @@ export default function Footer() {
           <i class="fa-solid fa-code"></i> Built by Harshvardhan Raj
         </p>
         <p className="footerContent">
-          <a href=".github/repo"><i class="fa-brands fa-square-github"></i> Github Repo</a>
+          <a href="https://github.com/the-hvr/Trello-lite"><i class="fa-brands fa-square-github"></i> Github Repo</a>
         </p>
     </footer>
   );
