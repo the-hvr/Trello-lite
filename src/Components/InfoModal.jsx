@@ -1,5 +1,5 @@
 
-import './Style/infoModal.css';
+import './Style/InfoModal.css';
 
 export default function infoModal({isOpen, onClose}){
     if(!isOpen) return null;
