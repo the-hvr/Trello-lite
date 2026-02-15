@@ -1,16 +1,97 @@
-# React + Vite
+### 📌 Trello Lite – Mini Project Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React-based mini project management application inspired by Trello.
+This project allows users to manage tasks efficiently using a clean and interactive Kanban-style board.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
+### 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- ➕ Add tasks to columns
 
-## Expanding the ESLint configuration
+- 🔄 Move tasks between To Do, Doing, and Done
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🗑 Delete individual tasks
+
+- 🧹 Clear all tasks from a column
+
+- 🎯 Priority levels (Low, Medium, High)
+
+- 📅 Timestamp for task creation
+
+- ✨ Clean UI with 3D card effects
+
+- 📦 Fully built using React functional components & hooks
+
+- 🛠 Tech Stack
+
+- ⚛ React (Functional Components)
+
+- 🎨 CSS3 (Custom Styling + Glassmorphism)
+
+- 🧠 useState Hook for State Management
+
+- 📦 JavaScript (ES6+)
+
+
+
+### 🎮 How It Works
+
+- Add a task in any column.
+
+- Move tasks forward as work progresses.
+
+- Mark tasks as completed.
+
+- Delete tasks if no longer needed.
+
+- Use Empty Column to clear all tasks at once.
+
+- 🎨 Priority Levels
+
+- 🟢 Low – Minor or flexible tasks
+
+- 🟡 Medium – Important tasks
+
+- 🔴 High – Urgent or critical tasks
+
+
+
+### 🖥 Installation & Setup
+
+- Clone the repository:
+
+- git clone https://github.com/YOUR_USERNAME/trello-lite.git
+
+
+
+### Install dependencies:
+
+npm install
+
+
+
+### 📌 Future Improvements
+
+- 🔄 Drag & Drop functionality
+
+- 💾 Local Storage persistence
+
+- 🌙 Dark mode
+
+- 🔐 Authentication
+
+- 🌐 Backend integration
+
+
+
+### 👨‍💻 Author
+
+Harshvardhan Raj
+React-based Mini Project Manager
+
+
+
+### ⭐ If You Like This Project
+
+Give it a ⭐ on GitHub and feel free to fork & improve it!
