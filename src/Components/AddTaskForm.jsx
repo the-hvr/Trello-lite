@@ -36,6 +36,7 @@ export default function AddTaskForm({columnId, setBoard}){
                 placeholder=" + Add new task"
             ></textarea>
 
+            <div>
             <select
                 value={priority}
                 onChange={(e) => setPriority(e.target.value)}
@@ -46,6 +47,7 @@ export default function AddTaskForm({columnId, setBoard}){
             </select>
 
             <button type="submit">Add</button>
+            </div>
         </form>
         </div>
       </>

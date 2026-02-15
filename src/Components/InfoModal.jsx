@@ -1,7 +1,7 @@
 
 import './Style/InfoModal.css';
 
-export default function infoModal({isOpen, onClose}){
+export default function InfoModal({isOpen, onClose}){
     if(!isOpen) return null;
 
     return (
@@ -9,7 +9,7 @@ export default function infoModal({isOpen, onClose}){
       <div className="modal-box">
 
         <div className="modal-header">
-          <div><h2>Trello Lite – </h2><span>Mini Project Manager</span></div>
+          <div><h2>Trello Lite – </h2><span style={{color:'white'}}>Mini Project Manager</span></div>
           <button className="close-btn" onClick={onClose}>✕</button>
         </div>
 
