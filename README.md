@@ -61,7 +61,7 @@ This project allows users to manage tasks efficiently using a clean and interact
 
 - Clone the repository:
 
-- git clone https://github.com/YOUR_USERNAME/trello-lite.git
+- git clone https://github.com/the-hvr/trello-lite.git
 
 
 
